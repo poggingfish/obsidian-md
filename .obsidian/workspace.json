@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b7a2f47be61afffc",
+        "id": "6de48bf9e8b2a614",
         "type": "tabs",
         "children": [
           {
-            "id": "96a1c9e6de35d1ae",
+            "id": "e669404fe13f7703",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "projects/0asm.md"
+                "file": "tasks.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -62,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "e6c61c104fa73ecb",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/0asm.md",
+                "file": "tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/0asm.md",
+                "file": "tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/0asm.md"
+                "file": "tasks.md"
               }
             }
           }
@@ -144,10 +155,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96a1c9e6de35d1ae",
+  "active": "e669404fe13f7703",
   "lastOpenFiles": [
-    "2023-08-13.md",
     "projects/0asm.md",
+    ".md",
+    "tasks.md",
+    "projects/0asm/kanban.md",
+    "README.md",
+    "projects/0asm/0asm.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "projects/projects.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "projects/0asm",
+    "2023-08-13.md",
     "0asm.md",
     "0.md",
     "projects"

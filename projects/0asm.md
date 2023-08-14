@@ -1,30 +1,19 @@
 ---
-
-kanban-plugin: basic
-
+sticker: emoji//1f5a5-fe0f
 ---
+# 0asm
 
-## Todo
+0asm is a Language VM written in C++.
 
-- [ ] Lua Scripting
+## 1asm
 
+1asm is a human readable language built ontop of 0asm.
 
-## W.I.P
+------
 
-- [ ] Control flow features
+## Tasks
 
-
-## Done
-
-**Complete**
-- [x] Basic parser
-- [x] Basic executor
-
-
-
-
-%% kanban:settings
-```
-{"kanban-plugin":"basic"}
-```
-%%
+- [ ] ⏫ Label syntax in 1asm
+- [ ] ⏫ Variables in 1asm
+- [ ] 🔼 Arrays in 0asm
+- [ ] 🔼 Floats in 0asm
